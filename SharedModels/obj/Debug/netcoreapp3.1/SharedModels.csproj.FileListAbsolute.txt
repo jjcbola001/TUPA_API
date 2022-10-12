@@ -1,0 +1,19 @@
+C:\Users\Lenovo\OneDrive\Desktop\WORK FILES\DEV FILES\OutSystems\#TUPA\TUPA_API\TUPA_API\SharedModels\bin\Debug\netcoreapp3.1\SharedModels.deps.json
+C:\Users\Lenovo\OneDrive\Desktop\WORK FILES\DEV FILES\OutSystems\#TUPA\TUPA_API\TUPA_API\SharedModels\bin\Debug\netcoreapp3.1\SharedModels.dll
+C:\Users\Lenovo\OneDrive\Desktop\WORK FILES\DEV FILES\OutSystems\#TUPA\TUPA_API\TUPA_API\SharedModels\bin\Debug\netcoreapp3.1\SharedModels.pdb
+C:\Users\Lenovo\OneDrive\Desktop\WORK FILES\DEV FILES\OutSystems\#TUPA\TUPA_API\TUPA_API\SharedModels\obj\Debug\netcoreapp3.1\SharedModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Desktop\WORK FILES\DEV FILES\OutSystems\#TUPA\TUPA_API\TUPA_API\SharedModels\obj\Debug\netcoreapp3.1\SharedModels.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\WORK FILES\DEV FILES\OutSystems\#TUPA\TUPA_API\TUPA_API\SharedModels\obj\Debug\netcoreapp3.1\SharedModels.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Desktop\WORK FILES\DEV FILES\OutSystems\#TUPA\TUPA_API\TUPA_API\SharedModels\obj\Debug\netcoreapp3.1\SharedModels.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\WORK FILES\DEV FILES\OutSystems\#TUPA\TUPA_API\TUPA_API\SharedModels\obj\Debug\netcoreapp3.1\SharedModels.dll
+C:\Users\Lenovo\OneDrive\Desktop\WORK FILES\DEV FILES\OutSystems\#TUPA\TUPA_API\TUPA_API\SharedModels\obj\Debug\netcoreapp3.1\SharedModels.pdb
+C:\Users\User\Downloads\TUPA_API\TUPA_API\SharedModels\bin\Debug\netcoreapp3.1\SharedModels.deps.json
+C:\Users\User\Downloads\TUPA_API\TUPA_API\SharedModels\bin\Debug\netcoreapp3.1\SharedModels.dll
+C:\Users\User\Downloads\TUPA_API\TUPA_API\SharedModels\bin\Debug\netcoreapp3.1\SharedModels.pdb
+C:\Users\User\Downloads\TUPA_API\TUPA_API\SharedModels\obj\Debug\netcoreapp3.1\SharedModels.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\TUPA_API\TUPA_API\SharedModels\obj\Debug\netcoreapp3.1\SharedModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\TUPA_API\TUPA_API\SharedModels\obj\Debug\netcoreapp3.1\SharedModels.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\TUPA_API\TUPA_API\SharedModels\obj\Debug\netcoreapp3.1\SharedModels.AssemblyInfo.cs
+C:\Users\User\Downloads\TUPA_API\TUPA_API\SharedModels\obj\Debug\netcoreapp3.1\SharedModels.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\TUPA_API\TUPA_API\SharedModels\obj\Debug\netcoreapp3.1\SharedModels.dll
+C:\Users\User\Downloads\TUPA_API\TUPA_API\SharedModels\obj\Debug\netcoreapp3.1\SharedModels.pdb

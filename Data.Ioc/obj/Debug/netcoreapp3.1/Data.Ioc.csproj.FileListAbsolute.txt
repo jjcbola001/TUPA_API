@@ -1,0 +1,46 @@
+C:\Users\Lenovo\OneDrive\Desktop\WORK FILES\DEV FILES\OutSystems\#TUPA\TUPA_API\TUPA_API\Data.Ioc\bin\Debug\netcoreapp3.1\Data.Ioc.deps.json
+C:\Users\Lenovo\OneDrive\Desktop\WORK FILES\DEV FILES\OutSystems\#TUPA\TUPA_API\TUPA_API\Data.Ioc\bin\Debug\netcoreapp3.1\Data.Ioc.dll
+C:\Users\Lenovo\OneDrive\Desktop\WORK FILES\DEV FILES\OutSystems\#TUPA\TUPA_API\TUPA_API\Data.Ioc\bin\Debug\netcoreapp3.1\Data.Ioc.pdb
+C:\Users\Lenovo\OneDrive\Desktop\WORK FILES\DEV FILES\OutSystems\#TUPA\TUPA_API\TUPA_API\Data.Ioc\bin\Debug\netcoreapp3.1\Data.Model.dll
+C:\Users\Lenovo\OneDrive\Desktop\WORK FILES\DEV FILES\OutSystems\#TUPA\TUPA_API\TUPA_API\Data.Ioc\bin\Debug\netcoreapp3.1\Data.Repository.dll
+C:\Users\Lenovo\OneDrive\Desktop\WORK FILES\DEV FILES\OutSystems\#TUPA\TUPA_API\TUPA_API\Data.Ioc\bin\Debug\netcoreapp3.1\Services.dll
+C:\Users\Lenovo\OneDrive\Desktop\WORK FILES\DEV FILES\OutSystems\#TUPA\TUPA_API\TUPA_API\Data.Ioc\bin\Debug\netcoreapp3.1\SharedInterfaces.dll
+C:\Users\Lenovo\OneDrive\Desktop\WORK FILES\DEV FILES\OutSystems\#TUPA\TUPA_API\TUPA_API\Data.Ioc\bin\Debug\netcoreapp3.1\SharedModels.dll
+C:\Users\Lenovo\OneDrive\Desktop\WORK FILES\DEV FILES\OutSystems\#TUPA\TUPA_API\TUPA_API\Data.Ioc\bin\Debug\netcoreapp3.1\SharedUtilities.dll
+C:\Users\Lenovo\OneDrive\Desktop\WORK FILES\DEV FILES\OutSystems\#TUPA\TUPA_API\TUPA_API\Data.Ioc\bin\Debug\netcoreapp3.1\Data.Repository.pdb
+C:\Users\Lenovo\OneDrive\Desktop\WORK FILES\DEV FILES\OutSystems\#TUPA\TUPA_API\TUPA_API\Data.Ioc\bin\Debug\netcoreapp3.1\Services.pdb
+C:\Users\Lenovo\OneDrive\Desktop\WORK FILES\DEV FILES\OutSystems\#TUPA\TUPA_API\TUPA_API\Data.Ioc\bin\Debug\netcoreapp3.1\SharedModels.pdb
+C:\Users\Lenovo\OneDrive\Desktop\WORK FILES\DEV FILES\OutSystems\#TUPA\TUPA_API\TUPA_API\Data.Ioc\bin\Debug\netcoreapp3.1\Data.Model.pdb
+C:\Users\Lenovo\OneDrive\Desktop\WORK FILES\DEV FILES\OutSystems\#TUPA\TUPA_API\TUPA_API\Data.Ioc\bin\Debug\netcoreapp3.1\SharedInterfaces.pdb
+C:\Users\Lenovo\OneDrive\Desktop\WORK FILES\DEV FILES\OutSystems\#TUPA\TUPA_API\TUPA_API\Data.Ioc\bin\Debug\netcoreapp3.1\SharedUtilities.pdb
+C:\Users\Lenovo\OneDrive\Desktop\WORK FILES\DEV FILES\OutSystems\#TUPA\TUPA_API\TUPA_API\Data.Ioc\obj\Debug\netcoreapp3.1\Data.Ioc.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Desktop\WORK FILES\DEV FILES\OutSystems\#TUPA\TUPA_API\TUPA_API\Data.Ioc\obj\Debug\netcoreapp3.1\Data.Ioc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Desktop\WORK FILES\DEV FILES\OutSystems\#TUPA\TUPA_API\TUPA_API\Data.Ioc\obj\Debug\netcoreapp3.1\Data.Ioc.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\WORK FILES\DEV FILES\OutSystems\#TUPA\TUPA_API\TUPA_API\Data.Ioc\obj\Debug\netcoreapp3.1\Data.Ioc.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Desktop\WORK FILES\DEV FILES\OutSystems\#TUPA\TUPA_API\TUPA_API\Data.Ioc\obj\Debug\netcoreapp3.1\Data.Ioc.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\WORK FILES\DEV FILES\OutSystems\#TUPA\TUPA_API\TUPA_API\Data.Ioc\obj\Debug\netcoreapp3.1\Data.Ioc.csproj.CopyComplete
+C:\Users\Lenovo\OneDrive\Desktop\WORK FILES\DEV FILES\OutSystems\#TUPA\TUPA_API\TUPA_API\Data.Ioc\obj\Debug\netcoreapp3.1\Data.Ioc.dll
+C:\Users\Lenovo\OneDrive\Desktop\WORK FILES\DEV FILES\OutSystems\#TUPA\TUPA_API\TUPA_API\Data.Ioc\obj\Debug\netcoreapp3.1\Data.Ioc.pdb
+C:\Users\User\Downloads\TUPA_API\TUPA_API\Data.Ioc\bin\Debug\netcoreapp3.1\Data.Ioc.deps.json
+C:\Users\User\Downloads\TUPA_API\TUPA_API\Data.Ioc\bin\Debug\netcoreapp3.1\Data.Ioc.dll
+C:\Users\User\Downloads\TUPA_API\TUPA_API\Data.Ioc\bin\Debug\netcoreapp3.1\Data.Ioc.pdb
+C:\Users\User\Downloads\TUPA_API\TUPA_API\Data.Ioc\bin\Debug\netcoreapp3.1\Data.Model.dll
+C:\Users\User\Downloads\TUPA_API\TUPA_API\Data.Ioc\bin\Debug\netcoreapp3.1\Data.Repository.dll
+C:\Users\User\Downloads\TUPA_API\TUPA_API\Data.Ioc\bin\Debug\netcoreapp3.1\Services.dll
+C:\Users\User\Downloads\TUPA_API\TUPA_API\Data.Ioc\bin\Debug\netcoreapp3.1\SharedInterfaces.dll
+C:\Users\User\Downloads\TUPA_API\TUPA_API\Data.Ioc\bin\Debug\netcoreapp3.1\SharedModels.dll
+C:\Users\User\Downloads\TUPA_API\TUPA_API\Data.Ioc\bin\Debug\netcoreapp3.1\SharedUtilities.dll
+C:\Users\User\Downloads\TUPA_API\TUPA_API\Data.Ioc\bin\Debug\netcoreapp3.1\Data.Repository.pdb
+C:\Users\User\Downloads\TUPA_API\TUPA_API\Data.Ioc\bin\Debug\netcoreapp3.1\Services.pdb
+C:\Users\User\Downloads\TUPA_API\TUPA_API\Data.Ioc\bin\Debug\netcoreapp3.1\SharedModels.pdb
+C:\Users\User\Downloads\TUPA_API\TUPA_API\Data.Ioc\bin\Debug\netcoreapp3.1\Data.Model.pdb
+C:\Users\User\Downloads\TUPA_API\TUPA_API\Data.Ioc\bin\Debug\netcoreapp3.1\SharedInterfaces.pdb
+C:\Users\User\Downloads\TUPA_API\TUPA_API\Data.Ioc\bin\Debug\netcoreapp3.1\SharedUtilities.pdb
+C:\Users\User\Downloads\TUPA_API\TUPA_API\Data.Ioc\obj\Debug\netcoreapp3.1\Data.Ioc.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\TUPA_API\TUPA_API\Data.Ioc\obj\Debug\netcoreapp3.1\Data.Ioc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\TUPA_API\TUPA_API\Data.Ioc\obj\Debug\netcoreapp3.1\Data.Ioc.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\TUPA_API\TUPA_API\Data.Ioc\obj\Debug\netcoreapp3.1\Data.Ioc.AssemblyInfo.cs
+C:\Users\User\Downloads\TUPA_API\TUPA_API\Data.Ioc\obj\Debug\netcoreapp3.1\Data.Ioc.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\TUPA_API\TUPA_API\Data.Ioc\obj\Debug\netcoreapp3.1\Data.Ioc.csproj.CopyComplete
+C:\Users\User\Downloads\TUPA_API\TUPA_API\Data.Ioc\obj\Debug\netcoreapp3.1\Data.Ioc.dll
+C:\Users\User\Downloads\TUPA_API\TUPA_API\Data.Ioc\obj\Debug\netcoreapp3.1\Data.Ioc.pdb

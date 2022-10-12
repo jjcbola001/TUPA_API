@@ -1,0 +1,26 @@
+C:\Users\Lenovo\OneDrive\Desktop\WORK FILES\DEV FILES\OutSystems\#TUPA\TUPA_API\TUPA_API\SharedUtilities\bin\Debug\netcoreapp3.1\SharedUtilities.deps.json
+C:\Users\Lenovo\OneDrive\Desktop\WORK FILES\DEV FILES\OutSystems\#TUPA\TUPA_API\TUPA_API\SharedUtilities\bin\Debug\netcoreapp3.1\SharedUtilities.dll
+C:\Users\Lenovo\OneDrive\Desktop\WORK FILES\DEV FILES\OutSystems\#TUPA\TUPA_API\TUPA_API\SharedUtilities\bin\Debug\netcoreapp3.1\SharedUtilities.pdb
+C:\Users\Lenovo\OneDrive\Desktop\WORK FILES\DEV FILES\OutSystems\#TUPA\TUPA_API\TUPA_API\SharedUtilities\bin\Debug\netcoreapp3.1\SharedModels.dll
+C:\Users\Lenovo\OneDrive\Desktop\WORK FILES\DEV FILES\OutSystems\#TUPA\TUPA_API\TUPA_API\SharedUtilities\bin\Debug\netcoreapp3.1\SharedModels.pdb
+C:\Users\Lenovo\OneDrive\Desktop\WORK FILES\DEV FILES\OutSystems\#TUPA\TUPA_API\TUPA_API\SharedUtilities\obj\Debug\netcoreapp3.1\SharedUtilities.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Desktop\WORK FILES\DEV FILES\OutSystems\#TUPA\TUPA_API\TUPA_API\SharedUtilities\obj\Debug\netcoreapp3.1\SharedUtilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Desktop\WORK FILES\DEV FILES\OutSystems\#TUPA\TUPA_API\TUPA_API\SharedUtilities\obj\Debug\netcoreapp3.1\SharedUtilities.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\WORK FILES\DEV FILES\OutSystems\#TUPA\TUPA_API\TUPA_API\SharedUtilities\obj\Debug\netcoreapp3.1\SharedUtilities.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Desktop\WORK FILES\DEV FILES\OutSystems\#TUPA\TUPA_API\TUPA_API\SharedUtilities\obj\Debug\netcoreapp3.1\SharedUtilities.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\WORK FILES\DEV FILES\OutSystems\#TUPA\TUPA_API\TUPA_API\SharedUtilities\obj\Debug\netcoreapp3.1\SharedUtilities.csproj.CopyComplete
+C:\Users\Lenovo\OneDrive\Desktop\WORK FILES\DEV FILES\OutSystems\#TUPA\TUPA_API\TUPA_API\SharedUtilities\obj\Debug\netcoreapp3.1\SharedUtilities.dll
+C:\Users\Lenovo\OneDrive\Desktop\WORK FILES\DEV FILES\OutSystems\#TUPA\TUPA_API\TUPA_API\SharedUtilities\obj\Debug\netcoreapp3.1\SharedUtilities.pdb
+C:\Users\User\Downloads\TUPA_API\TUPA_API\SharedUtilities\bin\Debug\netcoreapp3.1\SharedUtilities.deps.json
+C:\Users\User\Downloads\TUPA_API\TUPA_API\SharedUtilities\bin\Debug\netcoreapp3.1\SharedUtilities.dll
+C:\Users\User\Downloads\TUPA_API\TUPA_API\SharedUtilities\bin\Debug\netcoreapp3.1\SharedUtilities.pdb
+C:\Users\User\Downloads\TUPA_API\TUPA_API\SharedUtilities\bin\Debug\netcoreapp3.1\SharedModels.dll
+C:\Users\User\Downloads\TUPA_API\TUPA_API\SharedUtilities\bin\Debug\netcoreapp3.1\SharedModels.pdb
+C:\Users\User\Downloads\TUPA_API\TUPA_API\SharedUtilities\obj\Debug\netcoreapp3.1\SharedUtilities.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\TUPA_API\TUPA_API\SharedUtilities\obj\Debug\netcoreapp3.1\SharedUtilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\TUPA_API\TUPA_API\SharedUtilities\obj\Debug\netcoreapp3.1\SharedUtilities.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\TUPA_API\TUPA_API\SharedUtilities\obj\Debug\netcoreapp3.1\SharedUtilities.AssemblyInfo.cs
+C:\Users\User\Downloads\TUPA_API\TUPA_API\SharedUtilities\obj\Debug\netcoreapp3.1\SharedUtilities.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\TUPA_API\TUPA_API\SharedUtilities\obj\Debug\netcoreapp3.1\SharedUtilities.csproj.CopyComplete
+C:\Users\User\Downloads\TUPA_API\TUPA_API\SharedUtilities\obj\Debug\netcoreapp3.1\SharedUtilities.dll
+C:\Users\User\Downloads\TUPA_API\TUPA_API\SharedUtilities\obj\Debug\netcoreapp3.1\SharedUtilities.pdb

@@ -1,0 +1,19 @@
+C:\Users\Lenovo\OneDrive\Desktop\WORK FILES\DEV FILES\OutSystems\#TUPA\TUPA_API\TUPA_API\Data.Model\bin\Debug\netcoreapp3.1\Data.Model.deps.json
+C:\Users\Lenovo\OneDrive\Desktop\WORK FILES\DEV FILES\OutSystems\#TUPA\TUPA_API\TUPA_API\Data.Model\bin\Debug\netcoreapp3.1\Data.Model.dll
+C:\Users\Lenovo\OneDrive\Desktop\WORK FILES\DEV FILES\OutSystems\#TUPA\TUPA_API\TUPA_API\Data.Model\bin\Debug\netcoreapp3.1\Data.Model.pdb
+C:\Users\Lenovo\OneDrive\Desktop\WORK FILES\DEV FILES\OutSystems\#TUPA\TUPA_API\TUPA_API\Data.Model\obj\Debug\netcoreapp3.1\Data.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Desktop\WORK FILES\DEV FILES\OutSystems\#TUPA\TUPA_API\TUPA_API\Data.Model\obj\Debug\netcoreapp3.1\Data.Model.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\WORK FILES\DEV FILES\OutSystems\#TUPA\TUPA_API\TUPA_API\Data.Model\obj\Debug\netcoreapp3.1\Data.Model.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Desktop\WORK FILES\DEV FILES\OutSystems\#TUPA\TUPA_API\TUPA_API\Data.Model\obj\Debug\netcoreapp3.1\Data.Model.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\WORK FILES\DEV FILES\OutSystems\#TUPA\TUPA_API\TUPA_API\Data.Model\obj\Debug\netcoreapp3.1\Data.Model.dll
+C:\Users\Lenovo\OneDrive\Desktop\WORK FILES\DEV FILES\OutSystems\#TUPA\TUPA_API\TUPA_API\Data.Model\obj\Debug\netcoreapp3.1\Data.Model.pdb
+C:\Users\User\Downloads\TUPA_API\TUPA_API\Data.Model\bin\Debug\netcoreapp3.1\Data.Model.deps.json
+C:\Users\User\Downloads\TUPA_API\TUPA_API\Data.Model\bin\Debug\netcoreapp3.1\Data.Model.dll
+C:\Users\User\Downloads\TUPA_API\TUPA_API\Data.Model\bin\Debug\netcoreapp3.1\Data.Model.pdb
+C:\Users\User\Downloads\TUPA_API\TUPA_API\Data.Model\obj\Debug\netcoreapp3.1\Data.Model.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\TUPA_API\TUPA_API\Data.Model\obj\Debug\netcoreapp3.1\Data.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\TUPA_API\TUPA_API\Data.Model\obj\Debug\netcoreapp3.1\Data.Model.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\TUPA_API\TUPA_API\Data.Model\obj\Debug\netcoreapp3.1\Data.Model.AssemblyInfo.cs
+C:\Users\User\Downloads\TUPA_API\TUPA_API\Data.Model\obj\Debug\netcoreapp3.1\Data.Model.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\TUPA_API\TUPA_API\Data.Model\obj\Debug\netcoreapp3.1\Data.Model.dll
+C:\Users\User\Downloads\TUPA_API\TUPA_API\Data.Model\obj\Debug\netcoreapp3.1\Data.Model.pdb
